@@ -1,3 +1,3 @@
-document.querySelector('.bt{n').addEventListener('click',function(){
+document.querySelector('.btn').addEventListener('click',function(){
    console.log("登录成功")
 })
